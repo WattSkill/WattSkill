@@ -4,7 +4,7 @@
 - [Discord Server](https://discord.gg/thread)
 
 ## Visitor Count
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wattskill&hide_border=true&theme=transparent" />
+  <img src="https://profile-counter.glitch.me/WattSkill/count.svg" />
 
 
 ## Github Stats
