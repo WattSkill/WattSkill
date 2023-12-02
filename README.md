@@ -1,7 +1,7 @@
 
 ### Info:
 - Discord: WattSkill (645581897249849354)
-- [Discord Server](https://discord.gg/thread)
+- [Discord Server](https://discord.gg/elitedm)
 
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/WattSkill/count.svg" />
