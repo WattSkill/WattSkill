@@ -7,6 +7,7 @@
 - Developer in various langs
 
 <h2 align="center">Current Project's</h2>
+
 - Twitch Multifunctional Bot
 - Discord Multifunctional Bot
 - Optimiser Programs
