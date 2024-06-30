@@ -24,5 +24,5 @@
 <h2 align="center">Stat's</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21szn&hide_border=true&card_width=338&theme=transparent"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WattSkill&hide_border=true&card_width=338&theme=transparent"/>
 </p>
