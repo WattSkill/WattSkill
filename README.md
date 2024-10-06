@@ -1,7 +1,7 @@
 <h1 align="center">WattSkill Info</h1>
 
 - ?
-- 17
+- 18
 - College Student
 - UK
 - Developer in various langs
